@@ -8,3 +8,14 @@
 
         System.out.println(one + resultOfSumm);*/
 }
+
+ public static void main(String[] args) {
+      /*  int one = 7;
+        int anotherVar = 5;
+        int resultOfSumm = one + anotherVar;
+        System.out.println(one);
+        System.out.println(anotherVar);
+        System.out.println(resultOfSumm);
+
+        System.out.println(one + resultOfSumm);*/
+}
